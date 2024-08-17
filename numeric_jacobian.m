@@ -21,4 +21,3 @@ for i = 1 : nx
 end
 end
 
-% this function is copied from published code at Github on Dec 2rd, 2022.
